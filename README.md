@@ -11,6 +11,6 @@ The idea is to have the MPU6050 Accelerometer placed on top of the washing machi
 Alongside the accelerometer, the DHT22 will sit beside it, measuring humidity and temperature to assess the drying conditions and then post the data to the backend where the calculations will happen.
 
 The sensors involved:
-* [MPU6050](https://www.mouser.ie/en/ProductDetail/DFRobot/SEN0142?qs=sGAEpiMZZMu3sxpa5v1qrulGv0Cf5EFzMbJVumFAMJA%3D)
-* DHT22
+* [MPU6050](https://www.mouser.ie/en/ProductDetail/DFRobot/SEN0142?qs=sGAEpiMZZMu3sxpa5v1qrulGv0Cf5EFzMbJVumFAMJA%3D) (Yet to be purchased)
+* DHT22 (Purchased)
 
