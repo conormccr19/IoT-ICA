@@ -7,4 +7,4 @@ Washing your clothes involves more than just putting the clothes in the washing 
 In comes Smart wash, an IoT-based home clothes-washing management system that monitors washing machine activity and help's users decide how and where to dry their clothes.It will do this by monitoring the washing machine's vibrations and pinging your phone when it has stopped, upon completion it will display some insight into the drying conditions using a local weather api and comparing against the temperature and humidity conditions in the home gathered via sensors. And should it recommend the outdoors, it will give you a guide on the forecast, if you need to bring them in before a certain time, how long it may take etc.
 
 The sensors involved
-[https://www.mouser.ie/en/ProductDetail/DFRobot/SEN0142?qs=sGAEpiMZZMu3sxpa5v1qrulGv0Cf5EFzMbJVumFAMJA%3D]{MPU6050)
+(MPU6050)[https://www.mouser.ie/en/ProductDetail/DFRobot/SEN0142?qs=sGAEpiMZZMu3sxpa5v1qrulGv0Cf5EFzMbJVumFAMJA%3D]
