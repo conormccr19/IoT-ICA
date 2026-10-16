@@ -1,6 +1,6 @@
 ## IoT-ICA
 
-#SmartWash
+# SmartWash
 
 Washing your clothes involves more than just putting the clothes in the washing machine. User's must determine when a cycle has finished and decide where to dry their clothes based off the available conditions. In Ireland's climate it may be sunny at 4pm and raining at 4:15. This makes it harder to keep on top of this and it can become easy to leave your clothes outside to dry just for it to rain and make them wet once again.
 
